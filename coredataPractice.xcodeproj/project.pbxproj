@@ -18,6 +18,7 @@
 		E92B6F6A24882E9800C090BC /* Person+CoreDataClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = E92B6F6824882E9800C090BC /* Person+CoreDataClass.swift */; };
 		E92B6F6B24882E9800C090BC /* Person+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = E92B6F6924882E9800C090BC /* Person+CoreDataProperties.swift */; };
 		E92B6F6D2488366E00C090BC /* DataSource.swift in Sources */ = {isa = PBXBuildFile; fileRef = E92B6F6C2488366D00C090BC /* DataSource.swift */; };
+		E92B6F6F24884ED400C090BC /* News.swift in Sources */ = {isa = PBXBuildFile; fileRef = E92B6F6E24884ED400C090BC /* News.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +35,7 @@
 		E92B6F6824882E9800C090BC /* Person+CoreDataClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Person+CoreDataClass.swift"; sourceTree = "<group>"; };
 		E92B6F6924882E9800C090BC /* Person+CoreDataProperties.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Person+CoreDataProperties.swift"; sourceTree = "<group>"; };
 		E92B6F6C2488366D00C090BC /* DataSource.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataSource.swift; sourceTree = "<group>"; };
+		E92B6F6E24884ED400C090BC /* News.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = News.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +88,7 @@
 				E92B6F6924882E9800C090BC /* Person+CoreDataProperties.swift */,
 				E92B6F6524882BBC00C090BC /* DataBase.swift */,
 				E92B6F6C2488366D00C090BC /* DataSource.swift */,
+				E92B6F6E24884ED400C090BC /* News.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -164,6 +167,7 @@
 				E92B6F6B24882E9800C090BC /* Person+CoreDataProperties.swift in Sources */,
 				E92B6F6624882BBC00C090BC /* DataBase.swift in Sources */,
 				E92B6F5224882AB200C090BC /* ViewController.swift in Sources */,
+				E92B6F6F24884ED400C090BC /* News.swift in Sources */,
 				E92B6F6A24882E9800C090BC /* Person+CoreDataClass.swift in Sources */,
 				E92B6F4E24882AB200C090BC /* AppDelegate.swift in Sources */,
 				E92B6F5024882AB200C090BC /* SceneDelegate.swift in Sources */,
